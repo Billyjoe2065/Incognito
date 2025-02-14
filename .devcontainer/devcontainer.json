@@ -1,0 +1,12 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  }
+}
+    "features": {
+        "github.codespaces": {
+            "ports": [
+                { "port": "8000", "label": "8000" }
+            ]
+        }
+    }
